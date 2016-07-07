@@ -1,4 +1,4 @@
-# geekincwidget-simple
+# GeekInc's Simple Widget Manager
 
 ## Installation and requirements
 ```
